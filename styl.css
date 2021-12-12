@@ -1,0 +1,77 @@
+body {
+    width: 100%;
+    background: #1d1d1f;
+    font-family: monospace;
+    font-size: 20px;
+    margin: 0 !important;
+    color: white;
+}
+
+.all {
+    width: 100%;
+
+}
+
+.wstawka {
+    width: 100%;
+    padding: 40px 0;
+}
+
+.logo {
+    display: flex;
+    width: auto;
+    font-size: 30px;
+    margin-top: auto;
+    margin-left: auto;
+    text-align: center;
+    align-items: center;
+    flex: content;
+}
+
+.logo2 {
+    font-size: 200px;
+    
+    
+}
+
+.logo3 {
+    font-size: 100px;
+    margin-top: auto;
+    margin-left: auto;
+    text-align: center;
+}
+    
+
+.naw {
+    width: 100%;
+    padding: 10px 0;
+    height: 30px;
+    background: #1a1738;
+    border-top: 3px solid #f9f2b0;
+    border-bottom: 3px solid #f9f2b0;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.ramka {
+    align-items: center;
+    height: 60%;
+    color: white;
+    border: 3px solid #f9f2b0;
+    margin: 13px;
+    width: 11%;
+    display: inline-block;
+    background-color: rgb(6, 10, 36);
+    border-radius: 5px;
+    background-position: center;
+}
+
+.zarzad {
+    display: flexbox;
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+}

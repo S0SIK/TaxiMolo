@@ -1,0 +1,27 @@
+{
+  "name": "wottrackingbot",
+  "version": "1.0.0",
+  "description": "Wot Tracking Bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord-js"
+  ],
+  "author": "S0SIK",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cron": "^1.8.2",
+    "discord-fivem-api": "^1.0.6",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "fs-js": "^1.0.6",
+    "jsdom": "^18.0.1",
+    "node-cron": "^3.0.0"
+  }
+}
